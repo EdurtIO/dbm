@@ -1,0 +1,204 @@
+.red {
+  color: #f50;
+}
+
+.blue {
+  color: #1890ff;
+}
+
+.success {
+  color: #52c41a;
+}
+
+.md-typeset .grid {
+  grid-gap: .4rem;
+  display: grid;
+  grid-template-columns:repeat(auto-fit, minmax(16rem, 1fr));
+  margin: 1em 0
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) {
+  display: contents
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) {
+  display: contents
+}
+
+.md-typeset .grid.cards > :is(ul,ol) {
+  display: contents
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) > li, .md-typeset .grid > .card {
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .1rem;
+  display: block;
+  margin: 0;
+  padding: .8rem;
+  -webkit-transition: border .25s, box-shadow .25s;
+  transition: border .25s, box-shadow .25s
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) > li, .md-typeset .grid > .card {
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .1rem;
+  display: block;
+  margin: 0;
+  padding: .8rem;
+  -moz-transition: border .25s, box-shadow .25s;
+  transition: border .25s, box-shadow .25s
+}
+
+.md-typeset .grid.cards > :is(ul,ol) > li, .md-typeset .grid > .card {
+  border: .05rem solid var(--md-default-fg-color--lightest);
+  border-radius: .1rem;
+  display: block;
+  margin: 0;
+  padding: .8rem;
+  transition: border .25s, box-shadow .25s
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) > li:-webkit-any(:focus-within,:hover), .md-typeset .grid > .card:-webkit-any(:focus-within,:hover) {
+  border-color: transparent;
+  box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,.1),0 0 0.05rem rgba(0,0,0,.25);
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) > li:-moz-any(:focus-within,:hover), .md-typeset .grid > .card:-moz-any(:focus-within,:hover) {
+  border-color: transparent;
+  box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,.1),0 0 0.05rem rgba(0,0,0,.25);
+}
+
+.md-typeset .grid.cards > :is(ul,ol) > li:is(:focus-within,:hover), .md-typeset .grid > .card:is(:focus-within,:hover) {
+  border-color: transparent;
+  box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,.1),0 0 0.05rem rgba(0,0,0,.25);
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) > li > hr, .md-typeset .grid > .card > hr {
+  margin-bottom: 1em;
+  margin-top: 1em
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) > li > hr, .md-typeset .grid > .card > hr {
+  margin-bottom: 1em;
+  margin-top: 1em
+}
+
+.md-typeset .grid.cards > :is(ul,ol) > li > hr, .md-typeset .grid > .card > hr {
+  margin-bottom: 1em;
+  margin-top: 1em
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) > li > :first-child, .md-typeset .grid > .card > :first-child {
+  margin-top: 0
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) > li > :first-child, .md-typeset .grid > .card > :first-child {
+  margin-top: 0
+}
+
+.md-typeset .grid.cards > :is(ul,ol) > li > :first-child, .md-typeset .grid > .card > :first-child {
+  margin-top: 0
+}
+
+.md-typeset .grid.cards > :-webkit-any(ul,ol) > li > :last-child, .md-typeset .grid > .card > :last-child {
+  margin-bottom: 0
+}
+
+.md-typeset .grid.cards > :-moz-any(ul,ol) > li > :last-child, .md-typeset .grid > .card > :last-child {
+  margin-bottom: 0
+}
+
+.md-typeset .grid.cards > :is(ul,ol) > li > :last-child, .md-typeset .grid > .card > :last-child {
+  margin-bottom: 0
+}
+
+.md-typeset .grid > * {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+.md-typeset .grid > :-webkit-any(.admonition,details) {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+.md-typeset .grid > :-moz-any(.admonition,details) {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+.md-typeset .grid > :is(.admonition,details) {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+.md-typeset .grid > .highlight > *, .md-typeset .grid > .highlighttable, .md-typeset .grid > pre {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+.md-typeset .grid > .highlight > pre:only-child, .md-typeset .grid > .highlight > pre > code, .md-typeset .grid > .highlighttable, .md-typeset .grid > .highlighttable > tbody, .md-typeset .grid > .highlighttable > tbody > tr, .md-typeset .grid > .highlighttable > tbody > tr > .code, .md-typeset .grid > .highlighttable > tbody > tr > .code > .highlight, .md-typeset .grid > .highlighttable > tbody > tr > .code > .highlight > pre, .md-typeset .grid > .highlighttable > tbody > tr > .code > .highlight > pre > code {
+  height: 100%
+}
+
+.md-typeset .grid > .tabbed-set {
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+@media screen and (min-width: 45em) {
+  [dir=ltr] .md-typeset .inline {
+    margin-right: .8rem
+  }
+
+  [dir=rtl] .md-typeset .inline {
+    margin-left: .8rem
+  }
+
+  .md-typeset .inline {
+    float: left;
+    margin-bottom: .8rem;
+    margin-top: 0;
+    width: 11.7rem
+  }
+
+  [dir=rtl] .md-typeset .inline {
+    float: right
+  }
+
+  [dir=ltr] .md-typeset .inline.end {
+    margin-left: .8rem;
+    margin-right: 0
+  }
+
+  [dir=rtl] .md-typeset .inline.end {
+    margin-left: 0;
+    margin-right: .8rem
+  }
+
+  .md-typeset .inline.end {
+    float: right
+  }
+
+  [dir=rtl] .md-typeset .inline.end {
+    float: left
+  }
+}
+
+.mdx-container {
+  background: url(data:image/svg+xml;utf8,<svg xmlns= 'http://www.w3.org/2000/svg' viewBox= '0 0 1123 258' ><path d= 'M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style= 'fill: hsla(0, 0%, 100%, 1)' /></svg>) no-repeat bottom, linear-gradient(to bottom, var(--md-primary-fg-color), #a63fd9 99 %, var(--md-default-bg-color) 99 %);
+  padding-top: 1rem;
+  max-height: 600px;
+}
+
+.font-center {
+  text-align: center;
+}
+
+.bottom-margin {
+  margin-bottom: 10px;
+}
+
+.top-margin {
+  margin-top: 10px;
+}

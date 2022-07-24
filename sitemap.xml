@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://dbm.edurt.io/index.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/index.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/index.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/download.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/download.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/download.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/powered_by.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/powered_by.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/powered_by.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/development/contribution.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/development/contribution.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/development/contribution.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/development/document.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/development/document.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/development/document.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/development/documention.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/development/documention.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/development/documention.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/get_started_datasource.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/get_started_datasource.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/get_started_datasource.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/get_started/Install.zh.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/get_started/Install.zh.html"/>
+         
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/get_started/install.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/get_started/install.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/get_started/install.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/management_datasource.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/management_datasource.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/management_datasource.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/datasource/clickhouse.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/datasource/clickhouse.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/datasource/clickhouse.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/datasource/druid.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/datasource/druid.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/datasource/druid.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/datasource/mysql.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/datasource/mysql.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/datasource/mysql.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/datasource/postgresql.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/datasource/postgresql.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/datasource/postgresql.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/management/datasource/presto_trino.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/management/datasource/presto_trino.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/management/datasource/presto_trino.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/monitor/monitor-processor.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/monitor/monitor-processor.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/monitor/monitor-processor.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/monitor/monitor_connection.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/monitor/monitor_connection.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/monitor/monitor_connection.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/monitor/monitor_mutations.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/monitor/monitor_mutations.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/monitor/monitor_mutations.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/monitor/monitor_query.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/monitor/monitor_query.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/monitor/monitor_query.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/query/query_history.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/query/query_history.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/query/query_history.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/query/query_query.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/query/query_query.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/query/query_query.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/reference/query/snippet/snippet.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/reference/query/snippet/snippet.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/reference/query/snippet/snippet.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.0.0-SNAPSHOT.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.0.0-SNAPSHOT.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.0.0-SNAPSHOT.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.1.0-SNAPSHOT.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.1.0-SNAPSHOT.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.1.0-SNAPSHOT.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.10.0-20220127.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.10.0-20220127.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.10.0-20220127.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.11.0-20220222.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.11.0-20220222.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.11.0-20220222.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.12.0-20220318.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.12.0-20220318.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.12.0-20220318.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.13.0-20220329.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.13.0-20220329.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.13.0-20220329.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.14.0-20220410.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.14.0-20220410.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.14.0-20220410.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.15.0-20220425.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.15.0-20220425.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.15.0-20220425.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.16.0-20220513.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.16.0-20220513.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.16.0-20220513.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.17.0-20220529.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.17.0-20220529.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.17.0-20220529.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.18.0-20220610.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.18.0-20220610.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.18.0-20220610.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.19.0-20220623.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.19.0-20220623.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.19.0-20220623.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.2.0-SNAPSHOT.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.2.0-SNAPSHOT.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.2.0-SNAPSHOT.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.20.0-20220706.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.20.0-20220706.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.20.0-20220706.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.21.0-20220725.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.21.0-20220725.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.21.0-20220725.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.3.0-SNAPSHOT.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.3.0-SNAPSHOT.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.3.0-SNAPSHOT.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.4.0.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.4.0.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.4.0.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.5.0.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.5.0.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.5.0.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.6.0.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.6.0.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.6.0.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.7.0-2021-10-09.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.7.0-2021-10-09.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.7.0-2021-10-09.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.8.0-2021-11-02.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.8.0-2021-11-02.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.8.0-2021-11-02.html"/>
+         
+    </url>
+    <url>
+         <loc>https://dbm.edurt.io/release/1.9.0-20211130.html</loc>
+         <lastmod>2022-07-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dbm.edurt.io/en/release/1.9.0-20211130.html"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dbm.edurt.io/zh/release/1.9.0-20211130.html"/>
+         
+    </url>
+</urlset>
